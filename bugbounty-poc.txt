@@ -1,0 +1,6 @@
+Bug bounty proof of concept - authorized security testing.
+Reporter: midhuns (HackerOne)
+Date: 2026-11-25
+Purpose: demonstrate control of a dangling GitHub Pages hostname.
+This file will be removed and the custom domain released immediately after capture.
+No other content is served.
